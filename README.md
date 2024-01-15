@@ -1,4 +1,5 @@
 The Course Registration System is an online platform designed to streamline course enrollment in educational institutions. It offers students an easy, transparent process with a real-time course catalog and automated confirmation notifications. Administrators benefit from robust tools for managing the course catalog, reducing administrative overhead. The system ensures secure data management and scalability, empowering institutions to modernize and enhance the overall course registration experience.
+
 PROJECT REQUIREMENTS:
 Languages used: HTML, CSS, Javascript, Ajax, JQuery, PHP7.x
 Database: MySQL 5.x
